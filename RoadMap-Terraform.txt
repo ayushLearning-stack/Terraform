@@ -1,1 +1,17 @@
 ******************************************************** Terraform Basic ********************************************************
+
+Terraform is an open-source tool used for provisioning and managing cloud infrastructure. Automate the deployment with the use of a Terraform config file.
+
+Terraform workflow: 
+
+1. First, we need a Terraform config file that defines the components of our Azure infrastructure.
+
+2. terrafern init—This is used to initialize the working directory that contains the Terraform configuration files.
+
+3. terraform plan—Here Terraform will create an execution plan. Here you can see what changes Terraform is going to make to your infrastructure based on the configuration file.
+
+4. terraform apply—This will execute the actions in the Terraform plan.
+
+5. terraform destroy—This will destroy your infrastructure objects based on the Terraform configuration.
+
+The application object (App Registration) is used to connect Terraform to Azure.
