@@ -8,7 +8,7 @@ Terraform workflow:
 
 2. terrafern init—This is used to initialize the working directory that contains the Terraform configuration files.
 
-3. terraform plan—Here Terraform will create an execution plan. Here you can see what changes Terraform is going to make to your infrastructure based on the configuration file.
+3. terraform plan—Here Terraform will create an execution plan. Here you can see what changes Terraform is going to make to your infrastructure based on the configuration file. ()
 
 4. terraform apply—This will execute the actions in the Terraform plan.
 
