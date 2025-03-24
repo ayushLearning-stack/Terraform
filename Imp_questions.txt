@@ -1,0 +1,7 @@
+Terraform Questions :- 
+
+State File in Terraform
+What Will Happen If You Rename main.tf
+Module Structure in Terraform
+How to Create a Module for Instances
+what if we make manual changes in azure portal, without pushing it through terraform. It will cause problem in Terraform state file, how to resolve it

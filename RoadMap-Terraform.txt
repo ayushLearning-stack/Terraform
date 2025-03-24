@@ -12,6 +12,11 @@ Terraform workflow:
 
 4. terraform apply—This will execute the actions in the Terraform plan.
 
-5. terraform destroy—This will destroy your infrastructure objects based on the Terraform configuration.
+5. terraform destroy — This will destroy your infrastructure objects based on the Terraform configuration.
 
 The application object (App Registration) is used to connect Terraform to Azure.
+
+
+
+1. Varaible and locals 
+2. Data Block :- use to get the information of exisiting resources in azure platform
